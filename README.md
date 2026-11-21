@@ -1,6 +1,6 @@
 # Gerunds & Infinitives · Grammar OS
 
-A local English grammar game for B1–B2 learners.
+An English grammar game for B1–B2 learners. [Play on GitHub Pages](https://istmvera2092-sys.github.io/Ger-Inf/).
 
 ## Run the game
 
